@@ -51,8 +51,9 @@ src/
 1. **Clone repositori**
 
 ```bash
-git clone https://github.com/username/modular-admin-panel.git
-cd modular-admin-panel
+git clone https://github.com/saldriAka/pusdatin-admin-products
+cd pusdatin-admin-products
+rename env.example .env
 ```
 
 2. **Install dependencies**
@@ -103,4 +104,4 @@ Pull request dan issue sangat diterima untuk pengembangan proyek lebih lanjut.
 
 ---
 
-© 2025 - Dibuat dengan semangat Clean Code ✨
+© 2025 - Salam Semangat ✨
